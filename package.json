@@ -1,0 +1,14 @@
+{
+  "name": "scheduler-backend",
+  "version": "1.0.0",
+  "description": "My scheduler backend",
+  "main": "server.js",
+  "author": "Stanley Onchari",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
